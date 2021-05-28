@@ -1,0 +1,26 @@
+body{
+	background-color: lightyellow;
+}
+h1{
+	color: red;
+	font-family:Imprint MT Shadow ;
+}
+h2{
+	color: indigo;
+	font-family: Colonna MT ;
+}
+
+a{
+	color: firebrick;
+	font-size: 25px;
+	font-family:Lucida Calligraphy;
+}
+input{
+	background-color: lightblue;
+	font-size: 28px;
+}
+p{
+	font-size: 23px;
+	font-family:Arial Narrow;
+	color: sienna;
+}
